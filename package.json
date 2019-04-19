@@ -9,6 +9,9 @@
   "author": "thachd",
   "license": "ISC",
   "dependencies": {
-    "mongodb": "^3.2.3"
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "mongodb": "^3.2.3",
+    "mongoose": "^4.5.9"
   }
 }
